@@ -37,3 +37,6 @@ Login as admin first and then register students first in order to login as a stu
 Admin Credentials :  <br />
 Username: admin <br />
 Password: admin
+
+# Note
+Make sure to close the project in the order of website tabs -> PhpMyAdmin tab -> Stop the Apache & MySQL in XAMPP Control Panel
