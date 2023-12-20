@@ -30,7 +30,13 @@ XAMPP: https://www.apachefriends.org/ <br/>
 Step 1 : Extract the Project Files and add them under XAMPP\htdocs <br />
 Step 2 : Open up the XAMPP Control Panel & Start Apache & MySQL <br />
 Step 3 : Go to the Browser and enter http://localhost/phpmyadmin/ <br />
-Step 4 : Open another tab and enter http://localhost/online-course-registration/Online%20Course%20Registration/index.php
+Step 4 : Click on the 'Databases' tab <br />
+Step 5 : Enter 'onlinecourse' under Database name & click Create <br />
+Step 6 : Click on the 'Import' tab <br />
+Step 7 : Under 'File to import:' click on Choose File <br />
+Step 8 : Navigate to 'XAMPP\htdocs\online-course-registration\Online Course Registration\db' & choose onlinecourse <br />
+Step 9 : Click on Import. Your Database is ready for use <br />
+Step 10 : Open another tab and enter http://localhost/online-course-registration/Online%20Course%20Registration/index.php
 
 # Login 
 Login as admin first and then register students first in order to login as a student. <br />
