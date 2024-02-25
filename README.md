@@ -6,7 +6,8 @@ Parents can: Approve Child's courses <br/>
 
 # Guide
 Dr. Lakshmi Praveena Bellamkonda <br />
-HoD & Professor (CSE-AI & ML) at BVRIT Hyderabad College of Engineering for Women
+HoD & Professor (CSE-AI & ML) <br />
+BVRIT Hyderabad College of Engineering for Women
 
 # Team Members
 ~ Jyothi Vummadi (Team Lead) <br />
