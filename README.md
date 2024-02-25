@@ -4,6 +4,10 @@ Students can: Register for courses, view enrolled courses <br/>
 Faculty can: Register students, Manage Semesters, Manage Courses, Manage Counselors, View enroll history, Approve Students <br/>
 Parents can: Approve Child's courses <br/>
 
+# Guide
+Dr. Lakshmi Praveena Bellamkonda <br />
+HoD & Professor (CSE-AI & ML) at BVRIT Hyderabad College of Engineering for Women
+
 # Team Members
 ~ Jyothi Vummadi (Team Lead) <br />
 ~ Baja Kusuma <br />
